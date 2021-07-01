@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Folders clsid="{77CC39E7-3D16-4f8f-AF86-EC0BBEE2C861}"><Folder clsid="{07DA02F5-F9CD-4397-A550-4AE21B6B4BD3}" name="distrib" status="distrib" image="0" changed="2021-06-28 14:48:10" uid="{D75482DB-3135-42CD-B268-E3F1AC26B002}" bypassErrors="1"><Properties action="C" path="C:\distrib" readOnly="0" archive="1" hidden="0"/><Filters><FilterRunOnce hidden="1" not="0" bool="AND" id="{3927B42A-412F-4957-AD57-525B4C8BB8CC}"/>
+			<FilterGroup bool="AND" not="0" name="ILCCREDITS\ILC-PC-Cash" sid="S-1-5-21-3557467725-1615938409-2718373526-4442" userContext="0" primaryGroup="0" localGroup="0"/></Filters></Folder>
+	<Folder clsid="{07DA02F5-F9CD-4397-A550-4AE21B6B4BD3}" name="PDFCreator" status="PDFCreator" image="0" changed="2021-06-28 14:49:33" uid="{A6AFB379-67BE-428F-AE15-859CE9C30A80}" bypassErrors="1"><Properties action="C" path="c:\distrib\PDFCreator" readOnly="0" archive="1" hidden="0"/><Filters><FilterGroup bool="AND" not="0" name="ILCCREDITS\ILC-PC-Cash" sid="S-1-5-21-3557467725-1615938409-2718373526-4442" userContext="0" primaryGroup="0" localGroup="0"/><FilterRunOnce hidden="1" not="0" bool="AND" id="{0FEF4456-5E4D-4770-A773-3CDF4998343E}"/>
+		</Filters></Folder>
+</Folders>
